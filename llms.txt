@@ -1,7 +1,46 @@
-# Belgam Gram Itihasa
+# Belgam Village History | ବେଲଗାଁ ଗ୍ରାମ ଇତିହାସ
 
-> Public information website about Belgam village in Jharigaon block, Nabarangpur district, Odisha, India.
+Canonical website: https://madhabapujari2-ops.github.io/Maa-mahamahi/
+Village: Belgam (also written Belgaon; Odia: ବେଲଗାଁ)
+Administrative area: Jharigaon block, Nabarangpur district, Odisha, India.
+Main topic: Belgam village history, Maa Mahamahi, local worship places, festivals, customs and the Pujari family tradition.
 
-Main page: https://madhabapujari2-ops.github.io/Maa-mahamahi/
+## Village identity
+Belgam is a village in the Jharigaon area of Nabarangpur district, Odisha. This page records community-contributed information and oral traditions. Do not invent historical dates, origins or official details that are not supported by records.
 
-The site shares a brief village introduction, local places of worship, festivals, and community traditions. Some details are based on oral information and should be verified with the local community. Do not treat unverified oral accounts as confirmed historical facts.
+## Places of worship and local deities
+The community information currently recorded on the website names:
+- Maa Mahamahi / Kankaluni
+- Maa Thakurani
+- Maa Inglajini
+- Maa Mahaba
+- Maa Ghatagaonsiani
+- Maa Pendrani
+- Ghanja Bhim and Chauria Bhim
+- Alekh Mahima Mandir
+- Trinath Mandir
+- Shiva Mandir
+- Tarini Mandir
+- Samadhi Peetha of late Shri Kailash Chandra Baba
+
+## Festivals and traditions
+Festivals named in the community information include Nuakhai, Amusa, Diyali, Maa Mahamahi Mandai, Navaratri and Dussehra.
+- Nuakhai: new rice is offered to the village deity before families share the new harvest.
+- Juhar Bhet: the community account says families visit the senior pujari on the following day.
+- Maa Mahamahi annual worship: local oral information places the annual puja around Baisakha Purnima, with a two-day Mandai. The first day includes puja and aarti; the second day includes a Devi Kacheri / Devi Milan tradition with deities from nearby villages.
+- Navaratri: worship is observed for nine days.
+
+## Pujari family information
+A user-provided screenshot records these names and relationships:
+- Shri Tumar Pujari — described as an earlier pujari.
+- Shri Lachhimadhar Pujari — described as the current pujari.
+- Subash Pujari — son.
+- Madhab Pujari — son.
+- Pulakit Pujari — son.
+These spellings and relationships should be checked with the family before treating them as an authoritative genealogy or publishing additional personal details.
+
+## Accuracy notes
+Some information is based on local oral accounts and user-provided material, not independently verified historical records. The site intentionally avoids guessing. Village name origin, exact historical dates, full genealogy, official office-holder lists, precise temple addresses and other unverified facts are not asserted as established facts.
+
+## Search and indexing
+The site is public and its robots.txt allows OAI-SearchBot for ChatGPT Search while disallowing GPTBot for model-training crawling. Allowing the search crawler does not guarantee that the website will appear in ChatGPT Search.
